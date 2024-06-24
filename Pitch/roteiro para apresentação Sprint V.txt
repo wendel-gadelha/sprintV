@@ -1,0 +1,89 @@
+Slide 1:
+Boa noite a todos! Meu nome é Wendel, e hoje vou apresentar a InfintyShop, uma plataforma inovadora que vai transformar a forma como você vende online. Vamos explorar como nossa plataforma pode beneficiar seu negócio.
+
+Slide 2:
+A InfintyShop é uma plataforma de e-commerce especializada em dropshipping. Com a InfintyShop, você pode vender produtos sem precisar manter estoque, reduzindo custos e riscos.
+
+Slide 3: 
+Layout responsivo: 
+Nossa plataforma garante que sua loja funcione 
+perfeitamente em qualquer dispositivo.
+
+Venda sem estoque: 
+Você não precisa investir em estoque, pois trabalhamos 
+com fornecedores que enviam os produtos diretamente aos clientes.
+
+Orçamento inicial baixo: 
+Com menos gastos em estoque e armazenamento, 
+você pode começar com um investimento menor.
+
+Grande perspectiva de crescimento: 
+Escale seu negócio facilmente adicionando 
+novos produtos e alcançando um público maior.
+
+Slide 4:
+Nosso projeto inclui uma estrutura de site bem organizada e design personalizado
+para atender às necessidades do seu negócio. A InfintyShop se adapta a qualquer 
+dispositivo, proporcionando uma experiência de compra otimizada para todos os usuários.
+
+Slide 5:
+A InfintyShop vem equipada com diversas funcionalidades que facilitam sua vida:
+Facilidade de uso: 
+Nossa plataforma é intuitiva e fácil de navegar, mesmo para iniciantes.
+
+Integração: Compatível com várias ferramentas de marketing e análise.
+
+Suporte: Oferecemos suporte técnico dedicado para ajudar você a cada passo do caminho.
+
+Slide 6:
+Com a InfintyShop, você pode maximizar seus lucros graças ao baixo investimento inicial e à eliminação de custos com estoque. Além disso, a plataforma é altamente escalável, permitindo que você expanda seu negócio de maneira rápida e eficiente.
+
+Slide 7:
+Embora estejamos apresentando a InfintyShop pela primeira vez, podemos nos inspirar em modelos de sucesso como Oberlo e AliExpress, que popularizaram o dropshipping e ajudaram muitos comerciantes a crescer rapidamente.
+
+O diferencial da InfintyShop é a nossa dedicação ao suporte ao cliente e à facilidade de uso. Nossa plataforma é projetada para que qualquer pessoa, mesmo sem experiência técnica, possa configurar e gerenciar sua loja online com eficiência.
+
+Além disso, oferecemos uma ampla gama de integrações com ferramentas de marketing e análise, permitindo que você alcance seu público-alvo de forma eficaz.
+
+Justificativa das Cores usadas:
+ Escolha de Cores: Identidade, Experiência, Apelo
+
+O azul escuro é a cor predominante no cabeçalho da nossa plataforma. Ele é frequentemente associado à confiança, segurança e profissionalismo. Essas são qualidades essenciais para uma plataforma de e-commerce, pois queremos que nossos clientes se sintam seguros e confiantes ao realizar suas compras.
+
+O laranja é usado como cor de destaque, especialmente em banners promocionais. Esta cor vibrante transmite energia, entusiasmo e urgência, incentivando os clientes a aproveitar as promoções e ofertas especiais. O laranja também cria um contraste visual forte com o azul escuro, atraindo a atenção dos visitantes para as áreas mais importantes do site.
+
+O branco é utilizado como cor de fundo para criar um layout limpo e organizado. Ele ajuda a destacar os elementos visuais e textuais, facilitando a leitura e a navegação. O uso do branco também transmite uma sensação de espaço e simplicidade, contribuindo para uma experiência de usuário agradável e intuitiva.
+
+Banco de Dados:
+Para garantir que a InfintyShop funcione perfeitamente, utilizamos um modelo de banco de dados relacional. Esse modelo nos permite definir claramente as entidades e os relacionamentos entre elas, facilitando a gestão e a consulta dos dados.
+
+Modelagem de Dados: Diagrama Entidade-Relacionamento (DER)
+Este é o Diagrama Entidade-Relacionamento (DER) que usamos para modelar as principais entidades do sistema. No DER, definimos as entidades Usuários, Produtos, Pedidos e Fornecedores, e mostramos como elas se relacionam entre si.
+
+Criação de Tabelas na 3FN
+As tabelas do banco de dados foram criadas seguindo a Terceira Forma Normal (3FN) para garantir a eliminação de redundâncias e melhorar a integridade dos dados. Vamos ver um exemplo de criação de tabelas com informações de teste.
+
+Consultas Simples e Junções
+Aqui estão alguns exemplos de consultas simples, incluindo junções de tabelas:
+Consulta 1: Listar todos os produtos e seus respectivos fornecedores.
+Consulta 2: Listar todos os pedidos realizados por um determinado usuário.
+Consulta 3: Obter o total de vendas por produto.
+
+Resultados Esperados
+Com a combinação dessas cores e a robustez da nossa modelagem de dados, 
+esperamos alcançar os seguintes resultados:
+
+Atração: O contraste entre o azul escuro e o laranja chama a atenção dos visitantes, direcionando-os para as promoções e ofertas.
+
+Confiança: O azul escuro transmite segurança e profissionalismo, essenciais 
+para conquistar a confiança dos clientes.
+
+Facilidade de Uso: O branco cria um ambiente visual limpo e espaçoso,
+ facilitando a navegação e melhorando a experiência do usuário.
+
+Eficiência: A estrutura de banco de dados otimizada garante que as 
+operações da plataforma sejam rápidas e confiáveis
+
+Slide 8:
+Em resumo, a InfintyShop oferece uma solução completa para comerciantes que querem vender online sem complicações. Com um layout responsivo, vendas sem estoque e baixo investimento inicial, as oportunidades de crescimento são enormes. Convido todos a se juntar
+à InfintyShop e começar a transformar seus negócios hoje mesmo. Agora, estou aberto a perguntas. Obrigado!"
